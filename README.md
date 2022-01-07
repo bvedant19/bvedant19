@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bvedant19
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React.
-- 📫 How to reach me -
+- 📫 Reach me -
 insta Account : bvedant19 
 Linkdin Account : Vedant Bhugul 
 
