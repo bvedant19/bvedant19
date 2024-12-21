@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bvedant19
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React.
 - 📫 Reach me -
 Email-id : veantsbhugul@gmail.com 
 
