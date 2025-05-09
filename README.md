@@ -1,6 +1,6 @@
 - 👀 I’m a Software Engineer with a strong passion for Backend Development, Cloud Architecture, and Data Structures & Algorithms, among other areas of technology.
 - 🌱 I’m currently exploring and learning new skills to continuously grow and evolve into a better version of myself.
-- 📫 Feel free to reach out to me at: mishrakritika2001@gmail.com
+- 📫 Feel free to reach out to me at: vedantsbhugul@gmail.com
 
 
 <!---
